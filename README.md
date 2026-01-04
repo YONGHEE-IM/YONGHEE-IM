@@ -13,6 +13,16 @@
 
 ---
 
+## 📚 Coursework / Training
+- Python 실습 (기초~응용) + Jupyter Notebook
+- DBMS/SQL 실습 (쿼리 작성, 데이터 처리)
+- R 기반 빅데이터 분석 실습
+- AI 기초 실습 (Notebook 기반)
+
+🔗 Labs: https://github.com/YONGHEE-IM/coursework-labs
+
+---
+
 ## 🚀 Projects
 
 ### 1) Jeju Guide (개인 프로젝트)
