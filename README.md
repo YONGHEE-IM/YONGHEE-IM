@@ -7,9 +7,9 @@
 
 ## 🛠 Tech Stack
 - **Backend**: Java 17, Spring Boot, Spring MVC, Spring Security
-- **DB**: MySQL, JPA(Hibernate), 
-- **View**: Thymeleaf, HTML/CSS/JS
-- **Build/ETC**: Gradle, Git/GitHub
+- **Database**: MySQL, Spring Data JPA (Hibernate)
+- **View**: Thymeleaf, HTML/CSS/JavaScript
+- **Build & Tools**: Gradle, Git, GitHub
 
 ---
 
