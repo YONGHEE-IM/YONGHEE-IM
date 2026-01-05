@@ -34,6 +34,7 @@
 🔗 Repo: https://github.com/YONGHEE-IM/jeju-guide
 
 
+
 ### 2) Movie Site (팀 프로젝트)
 영화 탐색 + 커뮤니티 + 예매 흐름을 제공하는 웹 서비스  
 - 영화 목록/상세/장르 페이지 구성
