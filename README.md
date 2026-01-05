@@ -1,11 +1,11 @@
-### 👋 YONGHEE-IM
+# 👋 YONGHEE-IM
+
 주니어 백엔드 개발자 지망 | Spring Boot 기반 웹 서비스 개발  
 개인 프로젝트와 팀 프로젝트를 통해 로그인/회원가입/게시판/예약(예매) 흐름을 구현했습니다.
 
-
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Backend**: Java 17, Spring Boot, Spring MVC, Spring Security
 - **Database**: MySQL, Spring Data JPA (Hibernate)
 - **View**: Thymeleaf, HTML/CSS/JavaScript
@@ -13,7 +13,7 @@
 
 ---
 
-### 📚 Coursework / Training
+## 📚 Coursework / Training
 - Python 실습 (기초~응용) + Jupyter Notebook
 - DBMS/SQL 실습 (쿼리 작성, 데이터 처리)
 - R 기반 빅데이터 분석 실습
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 ### 1) Jeju Guide (개인 프로젝트)
 제주 여행 정보 + 커뮤니티(게시판) + 일정 추천(AI 플래너) 기능을 제공하는 웹 서비스  
@@ -32,7 +32,6 @@
 - 규칙 기반 일정 추천(확장 가능 구조)
 
 🔗 Repo: https://github.com/YONGHEE-IM/jeju-guide
-
 
 
 ### 2) Movie Site (팀 프로젝트)
@@ -45,7 +44,7 @@
 
 ---
 
-### 📌 Contact
+## 📌 Contact
 - Email: qldtks777@gmail.com
 - GitHub: https://github.com/YONGHEE-IM
 
