@@ -1,4 +1,5 @@
-**👋 YONGHEE-IM**
+**👋 YONGHEE-IM **
+
 주니어 백엔드 개발자 지망 | **Spring Boot 기반 웹 서비스 개발**  
 개인 프로젝트와 팀 프로젝트를 통해 **로그인/회원가입/게시판/예약(예매) 흐름**을 구현했습니다.
 
@@ -32,7 +33,6 @@
 
 🔗 Repo: https://github.com/YONGHEE-IM/jeju-guide
 
----
 
 ### 2) Movie Site (팀 프로젝트)
 영화 탐색 + 커뮤니티 + 예매 흐름을 제공하는 웹 서비스  
