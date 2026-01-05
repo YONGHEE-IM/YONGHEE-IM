@@ -3,7 +3,7 @@
 주니어 백엔드 개발자 지망 | Spring Boot 기반 웹 서비스 개발  
 개인 프로젝트와 팀 프로젝트를 통해 로그인/회원가입/게시판/예약(예매) 흐름을 구현했습니다.
 
-<br>
+<br></br>
 
 ## 🛠 Tech Stack
 - **Backend**: Java 17, Spring Boot, Spring MVC, Spring Security
@@ -11,7 +11,7 @@
 - **View**: Thymeleaf, HTML/CSS/JavaScript
 - **Build & Tools**: Gradle, Git, GitHub
 
----
+<br></br>
 
 ## 📚 Coursework / Training
 - Python 실습 (기초~응용) + Jupyter Notebook
@@ -21,7 +21,7 @@
 
 🔗 Labs: https://github.com/YONGHEE-IM/coursework-labs
 
----
+<br></br>
 
 ## 🚀 Projects
 
@@ -42,7 +42,7 @@
 
 🔗 Repo: https://github.com/YONGHEE-IM/movie-site
 
----
+<br></br>
 
 ## 📌 Contact
 - Email: qldtks777@gmail.com
